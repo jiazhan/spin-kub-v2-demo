@@ -1,0 +1,9 @@
+{
+  "artifacts": [
+  {
+      "type": "docker/image",
+      "name": "index.docker.io/kvgarnet/spin-kub-v2-demo",
+      "reference": "index.docker.io/kvgarnet/spin-kub-v2-demo"
+    }
+  ]
+}
